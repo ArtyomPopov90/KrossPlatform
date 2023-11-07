@@ -1,0 +1,2 @@
+# KrossPlatform
+Work for crossplatforms
